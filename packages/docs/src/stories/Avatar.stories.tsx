@@ -2,6 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Avatar } from '@ignite-ui/react/src/index'
 import { AvatarProps } from '@ignite-ui/react'
 
+// teste
 export default {
   title: 'Data display/Avatar',
   component: Avatar,
