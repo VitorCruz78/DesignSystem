@@ -1,0 +1,2 @@
+import{A as t}from"./index.4b848141.js";import"./index.6e8482d6.js";import"./index.f2614c71.js";import"./index.72905d9d.js";import"./iframe.e7542f65.js";import"./jsx-runtime.6eebd360.js";import"./index.bd261a6f.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/VitorCruz78.png",alt:"Vitor Luiz"},argTypes:{src:{control:{type:"text"}}}},e={},l={args:{src:void 0}},n=["Primary","WithFallback"];export{e as Primary,l as WithFallback,n as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.965649bc.js.map
